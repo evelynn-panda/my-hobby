@@ -1,0 +1,41 @@
+
+body {
+    background-color: #BFD5DF;
+    color: #344955;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+.title {
+    text-align: center;
+    color: #34536B;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
+
+.favourite-hobby {
+    background-color: #F8F5EF;
+    max-width: 650px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #668A91;
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+ul {
+    line-height: 2;
+}
+
+li {
+    color: #596D75;
+}
